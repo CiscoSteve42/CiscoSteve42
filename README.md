@@ -2,7 +2,7 @@
 - 👀 I’m interested in Networking, Python, Rust, and Linux!
 - 🌱 I’m currently learning Python and CCNA-level networking
 - 💞️ I’m looking to collaborate on anything that will make me a better programmer!
-- 📫 How to reach me https://stevenstone.tech
+- 📫 How to reach me sjstone91@tutanota.com
 
 <!---
 CiscoSteve42/CiscoSteve42 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
