@@ -1,10 +1,13 @@
+  ____ _              ____  _                 _  _  ____  
+ / ___(_)___  ___ ___/ ___|| |_ _____   _____| || ||___ \  
+| |   | / __|/ __/ _ \___ \| __/ _ \ \ / / _ | || |_ __) |  
+| |___| \__ | (_| (_) ___) | ||  __/\ V |  __|__   _/ __/  
+ \____|_|___/\___\___|____/ \__\___| \_/ \___|  |_||_____|  
+
+
 - 👋 Hi, I’m @CiscoSteve42
-- 👀 I’m interested in Networking, Python, Rust, and Linux!
+- 👀 I’m interested in Networking, Python, and Linux!
 - 🌱 I’m currently learning Python and CCNA-level networking
 - 💞️ I’m looking to collaborate on anything that will make me a better programmer!
 - 📫 How to reach me sjstone91@tutanota.com
 
-<!---
-CiscoSteve42/CiscoSteve42 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
