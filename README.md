@@ -1,3 +1,4 @@
+- 👋 Hi, I'm
 ```
   ____ _              ____  _                 _  _  ____  
  / ___(_)___  ___ ___/ ___|| |_ _____   _____| || ||___ \  
@@ -7,7 +8,6 @@
   =======================================================
 ```
 
-- 👋 Hi, I’m @CiscoSteve42
 - 👀 I’m interested in Networking, Python, and Linux!
 - 🌱 I’m currently learning Python and CCNA-level networking
 - 💞️ I’m looking to collaborate on anything that will make me a better programmer!
