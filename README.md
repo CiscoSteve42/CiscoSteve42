@@ -13,7 +13,7 @@
 
 
 
-- 👀 I’m interested mostly in Linux and BSD systems, and would love to pursue a career configuring and maintaining them. I also very much enjoy home labbing, mostly with devices destined for the dump will that still run open source stuff great
+- 👀 I’m interested mostly in Linux and BSD systems, and would love to pursue a career configuring and maintaining them. I also very much enjoy home labbing, mostly with devices destined for the dump will that still run open source stuff pretty great
   
 - 🌱 I’m currently learning LFCSA-level Linux, AWS, and working to imporove my Python and networking skills
   
