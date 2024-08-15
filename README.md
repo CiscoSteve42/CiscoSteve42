@@ -13,9 +13,9 @@
 
 
 
-- 🔥 I’m interested mostly in Linux and BSD systems, and would love to pursue a career configuring and maintaining them. I also very much enjoy home labbing, mostly with devices destined for the dump will that still run open source stuff pretty great
+- 🔥 I’m interested in Linux and BSD systems, Networking/homelabbing, and Python
   
-- 🧙‍♂️ I’m currently learning LFCSA-level Linux, AWS, and working to imporove my Python and networking skills
+- 🧙‍♂️ I’m currently learning Linux Administration and AWS 
   
 - 💯 I’m looking to collaborate on anything that I'm capable of contributing to in a meaningful way
   
