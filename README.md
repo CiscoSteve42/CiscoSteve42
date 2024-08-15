@@ -1,4 +1,4 @@
-- 🖖 Greetings! I'm Steven Stone, also known as:
+- 🖖 **Greetings!** I'm Steven Stone, also known as:
 
   
 ```bash
@@ -9,15 +9,15 @@
  \____|_|___/\___\___|____/ \__\___| \_/ \___|  |_||_____|     '|  ||
   =======================================================       _\_):,_
 ```
-### $~~~~~~~~~~~~~$ Welcome to my Github Page!  
+### $~~~~~~~~~~~~~~~~~~~$ Welcome to my Github Page!  
 
 
 
-- 🔥 I’m interested in Linux and BSD systems, Networking/homelabbing, and Python
+- 🐧 I’m interested in Linux and BSD systems, Networking/homelabbing, and Python
   
 - 🧙‍♂️ I’m currently learning Linux Administration and AWS 
   
-- 💯 I’m looking to collaborate on anything that I'm capable of contributing to in a meaningful way
+- 🏴‍☠️ I’m looking to collaborate on anything that I'm capable of contributing to in a meaningful way
   
-- 🐧 You can reach me at sjstone91@tutanota.com
-
+- 🛸 You can reach me at sjstone91@tutanota.com
+  
