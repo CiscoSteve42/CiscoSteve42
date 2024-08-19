@@ -19,5 +19,5 @@
   
 - 🏴‍☠️ I’m looking to collaborate on anything that I'm capable of contributing to in a meaningful way
   
-- 🛸 You can reach me at sjstone91@tutanota.com
+- 🛸 You can contact me at sjstone91@tutanota.com
   
